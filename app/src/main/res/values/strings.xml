@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AAD Team 37 Animation Challenge</string>
+    <string name="tourist">Tourist</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="continue_with_tourist">sign in to continue with Tourist</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="our_team">OUR TEAM</string>
+    <string name="portharcourt_nigeria">PORTHARCOURT, NIGERIA</string>
+    <string name="nigeria">NIGERIA</string>
+    <string name="isaiah_ojedokun">ISAIAH OJEDOKUN</string>
+    <string name="soronnadi_anthony">SORONNADI ANTHONY</string>
+    <string name="maduabughichi_achilefu">MADUABUGHICHI ACHILEFU</string>
 </resources>
